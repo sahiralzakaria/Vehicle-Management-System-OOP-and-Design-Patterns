@@ -1,5 +1,6 @@
 # Vehicle Management System OOP and Design Patterns
 
+
 Java ile geliştirilen bu projede, **Nesne Yönelimli Programlama (OOP)** prensipleri ve bazı **tasarım kalıpları** kullanılarak basit bir araç yönetim sistemi oluşturulmuştur.
 
 ## 🛠 Kullanılan Teknolojiler
