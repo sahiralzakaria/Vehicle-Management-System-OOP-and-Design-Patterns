@@ -13,7 +13,6 @@ Java ile geliştirilen bu projede, **Nesne Yönelimli Programlama (OOP)** prensi
 
 ##  Özellikler
 
-
 -  Araç bilgilerini ekleme, silme, güncelleme ve listeleme işlemleri  
 -  Farklı araç türlerini destekler (örneğin: araba, motosiklet, kamyon vb.)  
 -  Konsol tabanlı, kullanıcı dostu arayüz
