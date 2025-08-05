@@ -11,9 +11,7 @@ Java ile geliştirilen bu projede, **Nesne Yönelimli Programlama (OOP)** prensi
   - 🧩 Facade  
 - **Test:** JUnit  
 
-
 ##  Özellikler
-
 
 -  Araç bilgilerini ekleme, silme, güncelleme ve listeleme işlemleri  
 -  Farklı araç türlerini destekler (örneğin: araba, motosiklet, kamyon vb.)  
