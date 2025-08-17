@@ -23,11 +23,9 @@ Java ile geliştirilen bu projede, **Nesne Yönelimli Programlama (OOP)** prensi
 
 ## ▶ Nasıl Kullanılır?
 
-
 1. Java IDE (IntelliJ, Eclipse) ile projeyi açın  
 2. `Main` sınıfını çalıştırın  
 3. Konsoldan işlemleri yapın
-
 
 
 ##  Geliştirici
