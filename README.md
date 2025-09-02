@@ -31,7 +31,6 @@ Java ile geliştirilen bu projede, **Nesne Yönelimli Programlama (OOP)** prensi
 
 **Sahir Zakaria**
 
-
 - [GitHub](https://github.com/sahiralzakaria)  
 - [LinkedIn](https://www.linkedin.com/in/sahir-zakaria-39873531b)  
 - [Email](mailto:sahir.alzakaria@gmail.com)
