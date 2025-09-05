@@ -20,7 +20,6 @@ Java ile geliştirilen bu projede, **Nesne Yönelimli Programlama (OOP)** prensi
 -  Yazılım tasarım kalıplarıyla (Factory, Facade, Strategy) esnek ve genişletilebilir yapı
 -  JUnit ile test edilebilirlik
 
-
 ## ▶ Nasıl Kullanılır?
 
 1. Java IDE (IntelliJ, Eclipse) ile projeyi açın  
