@@ -22,6 +22,7 @@ Java ile geliştirilen bu projede, **Nesne Yönelimli Programlama (OOP)** prensi
 -  JUnit ile test edilebilirlik
 
 
+
 ## ▶ Nasıl Kullanılır?
 
 1. Java IDE (IntelliJ, Eclipse) ile projeyi açın  
